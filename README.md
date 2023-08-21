@@ -12,10 +12,10 @@ The Tempus Track is a Laravel-based web application designed to facilitate atten
 
 ## Technologies Used
 
-- **Laravel:** The web application framework that powers the backend.
-- **Livewire:** A full-stack framework for Laravel that facilitates dynamic user interfaces.
-- **Folio:** A flexible UI kit for building web applications using Tailwind CSS.
-- **Volt:** A Laravel dashboard template crafted with Tailwind CSS.
+- **Laravel:** 
+- **Livewire:**
+- **Folio:** 
+- **Volt:** 
 
 ## Getting Started
 
